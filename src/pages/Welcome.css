@@ -1,0 +1,91 @@
+.Welcome {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 50px 0;
+  margin: 100px 0;
+  border-image: linear-gradient(90deg, #f4ddc4 -70%, #10121b 50%, #f4ddc4 170%)
+    1;
+  border-style: solid;
+  border-width: 2px;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+}
+.Welcome__left,
+.Welcome__middle,
+.Welcome__right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin: 0 40px;
+}
+
+.Welcome__title {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 45px;
+  color: #f4ddc4;
+  letter-spacing: 1px;
+  padding: 0 0 20px 0;
+}
+.Welcome__subtitle {
+  text-transform: uppercase;
+  font-size: 28px;
+  line-height: 35px;
+  color: #f4ddc4;
+  padding: 20px 0 0 0;
+}
+.Welcome__desc1,
+.Welcome__desc2 {
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 1px;
+  padding: 20px 0;
+}
+.Welcome__desc3 {
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 1px;
+  padding: 20px 0 0 0;
+  text-transform: uppercase;
+}
+.Welcome__button {
+  display: flex;
+}
+.Welcome__btn {
+  background-image: linear-gradient(#f5ddc1, #7f6d5f);
+  color: #151516;
+  width: 350px;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  padding: 10px 15px;
+  border-bottom: 1px solid #988a80;
+  border-right: 1px solid #988a80;
+  border-radius: 3px;
+  transition: 0.15s;
+  text-decoration: none;
+  cursor: pointer;
+}
+.Welcome__btn:hover {
+  background-image: linear-gradient(#252525, black);
+  color: white;
+}
+.img__decor {
+  height: 30px;
+  width: 100%;
+}
+.img__decor__left,
+.img__decor__right {
+  height: 30px;
+  width: 100%;
+}
+.img__welcome {
+  margin: 0 0 20px 0;
+  width: fit-content;
+  border-radius: 50%;
+  border: 3px solid #95785c;
+}
