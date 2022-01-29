@@ -10,7 +10,7 @@ function Footer() {
         <div className="Footer__left">
           <p className="Footer__title">About Crown Jewelry</p>
           <ul>
-            <Link to="/home">Home</Link>
+            <Link to="/">Home</Link>
             <Link to="/products">Promos</Link>
             <Link to="/">Career</Link>
             <Link to="/">Events</Link>

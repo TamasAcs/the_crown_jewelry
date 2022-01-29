@@ -34,7 +34,7 @@ function Welcome() {
       </div>
       <div className="Welcome__middle">
         <img className="img__welcome" src={welcome} alt="img" />
-        <p className="Welcome__title">LATEST COLECTIONS</p>
+        <p className="Welcome__title">LATEST COLLECTIONS</p>
         <img className="img__decor" src={decor} alt="img" />
         <p className="Welcome__desc3">
           Lorem ipsum dolor sit amet, adipisicing. Beatae totam.

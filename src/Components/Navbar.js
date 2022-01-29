@@ -14,10 +14,10 @@ const Navbar = () => {
           <img src={logo} alt=""/>
         </div>
         <div className="navbar-links_container">
-          <Link to="/home">Home</Link>
+          <Link to="/">Home</Link>
           <Link to="/about">About</Link>
           <Link to="/products">Jewelry</Link>
-          <Link to="/contact">Contact</Link>
+          <Link to="/contact">Contact Us</Link>
         </div>
       </div>
       <div className="navbar-menu">
@@ -27,10 +27,10 @@ const Navbar = () => {
         {toggleMenu && (
         <div className="navbar-menu_container scale-uLink-center">
           <div className="navbar-menu_container-links">
-          <Link to="/home">Home</Link>
+          <Link to="/">Home</Link>
           <Link to="/about">About</Link>
           <Link to="/products">Jewelry</Link>
-          <Link to="/contact">Contact</Link>
+          <Link to="/contact">Contact Us</Link>
           </div>
         </div>
         )}

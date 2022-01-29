@@ -2,7 +2,11 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    padding: 50px 0;
+    padding: 70px 0;
+    background-image: url("../img/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
     border-image: linear-gradient(90deg, #f4ddc4 -70%, #10121b 50%, #f4ddc4 170%)
       1;
     border-style: solid;
@@ -19,7 +23,7 @@
     justify-content: space-between;
     align-items: center;
     text-align: center;
-    margin: 0 40px;
+    margin: 0 20px;
   }
   
   .About__title {
@@ -53,11 +57,16 @@
   }
   .About__button {
     display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-evenly;
   }
   .About__btn {
+    align-self: center;
     background-image: linear-gradient(#f5ddc1, #7f6d5f);
     color: #151516;
-    width: 350px;
+    min-width: 120px;
+    margin: 0 10px;
     font-size: 16px;
     font-weight: 600;
     line-height: 16px;
@@ -73,18 +82,9 @@
     background-image: linear-gradient(#252525, black);
     color: white;
   }
-  .img__decor {
-    height: 30px;
-    width: 100%;
-  }
-  .img__decor__left,
-  .img__decor__right {
-    height: 30px;
-    width: 100%;
-  }
   .img__About {
     margin: 0 0 20px 0;
-    width: fit-content;
+    width: 100%;
     border-radius: 50%;
     border: 3px solid #95785c;
   }

@@ -1,19 +1,25 @@
 .Contact__container {
+  background-image: url("../img/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
   display: flex;
-  align-items: center;
+  align-items: start;
   justify-content: space-evenly;
-  margin: 50px 0 0 0;
+  padding: 50px 0;
 }
 .Contact__title {
   margin: auto;
   padding: 0 0 20px 0;
   font-size: 30px;
   font-weight: 600;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   color: #f4ddc4;
 }
 .Contact__left,
 .Contact__right {
+  width: 100%;
+  margin: 0 20px;
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -24,28 +30,69 @@
   font-size: 22px;
 }
 .Contact__right {
-  width: 50%;
   display: flex;
   align-items: start;
   flex-direction: column;
 }
 .Contact__img {
   margin: 30px 0;
-  width: 500px;
+  width: 100%;
   height: 400px;
+}
+.Contact__img__decor {
+  width: 100%;
+  height: 40px;
 }
 input,
 textarea {
-  font-size: 24px;
+  width: 50%;
+  font-size: 16px;
+  font-weight: 600;
   line-height: 30px;
-  padding: 3px;
+  letter-spacing: 1px;
+  padding: 6px 9px 7px;
   margin: 10px 0;
   outline: none;
-  border: none;
+  background: black;
+  color: white;
+  border: 2px solid #342627;
+
+  font-family: "Italiana", serif;
+}
+textarea {
+  width: 100%;
+  resize: none;
 }
 input:focus,
 input:active,
 textarea:focus,
 textarea:active {
   outline: none;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.Contact__right__btn {
+  font-family: "Italiana", serif;
+  align-self: end;
+  background-image: linear-gradient(#f5ddc1, #7f6d5f);
+  color: #151516;
+  margin: 20px 0 0 0;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  line-height: 16px;
+  padding: 10px 25px;
+  border-bottom: 1px solid #988a80;
+  border-right: 1px solid #988a80;
+  border-radius: 3px;
+  transition: 0.15s;
+  text-decoration: none;
+  cursor: pointer;
+}
+.Contact__right__btn:hover {
+  background-image: linear-gradient(#252525, black);
+  color: white;
 }

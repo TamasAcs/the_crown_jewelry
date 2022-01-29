@@ -34,12 +34,13 @@
   font-weight: 500;
   font-size: 17px;
   line-height: 20px;
+  padding-bottom: 1px;
   text-transform: capitalize;
   cursor: pointer;
 }
 .navbar-links_container a:hover,
 .navbar-menu_container a:hover {
-  text-decoration: underline;
+  border-bottom: 1px solid #f4ddc4;
 }
 .navbar-menu {
   margin-left: 1rem;
@@ -66,6 +67,7 @@
   padding: 1.5rem 5rem;
 }
 .navbar-menu_container-links {
+  width: 220px;
   display: flex;
   flex-direction: column;
 }
