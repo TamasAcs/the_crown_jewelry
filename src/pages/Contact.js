@@ -14,12 +14,12 @@ function Contact() {
           <p className="Contact__title">FIND US</p>
           <img className="Contact__img__decor" src={decor} alt="img" />
           <img className="Contact__img" src={map} alt="" />
-          <p className="Contact__left__subtitle"> 8901 MARMORA ROAD,</p>
-          <p className="Contact__left__subtitle"> GLASGOW, D04 89GR.</p>
+          <p className="Contact__left__subtitle"> 01 LONDON ROAD,</p>
+          <p className="Contact__left__subtitle"> LONDON, SE1 8RG.</p>
           <p> Freephone: +1 800 559 6580</p>
           <p> Telephone: +1 959 603 6035</p>
           <p> FAX: +1 504 889 9898</p>
-          <p> E-mail: mail@demolink.org</p>
+          <p> E-mail: mail@crownjewelry.org</p>
         </div>
         <div className="Contact__right">
           <p className="Contact__title">GET IN TOUCH</p>
