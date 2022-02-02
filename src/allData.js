@@ -49,188 +49,188 @@ export default [
   {
     id: 1,
     image: watch1,
-    title: "Tips and tricks to write good code",
+    title: "Tommy Hilfiger",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Automatic Chronograph - Diameter 44 mm",
   },
   {
     id: 2,
     image: watch2,
-    title: "How to use Search Engine Optimisation",
+    title: "Hugo Boss",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Black-dial chronograph watch with link bracelet",
   },
   {
     id: 3,
     image: watch3,
-    title: "10 Tricks and Tips in Python",
+    title: "Lacoste",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Lacoste Men's Blue Dial Blue Silicone Strap Watch",
   },
   {
     id: 4,
     image: watch4,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Raptor",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Sport chronograph dial with link bracelet",
   },
   {
     id: 5,
     image: watch5,
-    title: "I think Fortnite is dead",
+    title: "Hugo Boss",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Blue-toned with silicone strap",
   },
   {
     id: 6,
     image: watch6,
-    title: "Tips and tricks to write good code",
+    title: "Certina",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Stainless Steel Bracelet Watch",
   },
   {
     id: 7,
     image: watch7,
-    title: "How to use Search Engine Optimisation",
+    title: "Coach",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold-toned with mesh bracelet",
   },
   {
     id: 8,
     image: watch8,
-    title: "10 Tricks and Tips in Python",
+    title: "Maurice",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Black dial with leather strap",
   },
   {
     id: 9,
     image: watch9,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Rado",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Black dial with Gold-plated hands",
   },
   {
     id: 10,
     image: watch10,
-    title: "I think Fortnite is dead",
+    title: "Tissot",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Accuracy and quality at all times",
   },
   {
     id: 11,
     image: watch11,
-    title: "I think Fortnite is dead",
+    title: "Versace",
     category: "Watch",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Black & Gold Tone Watch",
   },
 
   {
     id: 12,
     image: bracelet1,
-    title: "Tips and tricks to write good code",
+    title: "Guess",
     category: "Bracelet",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "All around you golden bracelet",
   },
   {
     id: 13,
     image: bracelet2,
-    title: "How to use Search Engine Optimisation",
+    title: "Ted Baker",
     category: "Bracelet",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Silver Finish Hinged Bangle",
   },
   {
     id: 14,
     image: bracelet3,
-    title: "10 Tricks and Tips in Python",
+    title: "Ted Baker",
     category: "Bracelet",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Silver bracelet with two hearts",
   },
   {
     id: 15,
     image: bracelet4,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Tommy Hilfiger",
     category: "Bracelet",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Stainless Steel with Crystals",
   },
   {
     id: 16,
     image: bracelet5,
-    title: "I think Fortnite is dead",
+    title: "Hugo Boss",
     category: "Bracelet",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Metal linked gold and silver IP bracelet",
   },
   {
     id: 17,
     image: bracelet6,
-    title: "Tips and tricks to write good code",
+    title: "Fossil",
     category: "Bracelet",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Black Stainless Steel Chain bracelet",
   },
   {
     id: 18,
     image: bracelet7,
-    title: "How to use Search Engine Optimisation",
+    title: "Thomas-Sabo",
     category: "Bracelet",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Black leather plait bracelet",
   },
 
   {
     id: 19,
     image: necklace1,
-    title: "Tips and tricks to write good code",
+    title: "Emporio-Armani",
     category: "Necklace",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold with EA pendant",
   },
   {
     id: 20,
     image: necklace2,
-    title: "How to use Search Engine Optimisation",
+    title: "Michael-Kors",
     category: "Necklace",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold with MK pendant",
   },
   {
     id: 21,
     image: necklace3,
-    title: "10 Tricks and Tips in Python",
+    title: "Skegen",
     category: "Necklace",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold with Crystals",
   },
   {
     id: 22,
     image: necklace4,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Hugo Boss",
     category: "Necklace",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold chain necklace",
   },
   {
     id: 23,
     image: necklace5,
-    title: "I think Fortnite is dead",
+    title: "Emporio-Armani",
     category: "Necklace",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Stainless Steel with Black EA tag",
   },
 
 
@@ -238,129 +238,129 @@ export default [
   {
     id: 24,
     image: earring1,
-    title: "How to use Search Engine Optimisation",
+    title: "Hugo Boss",
     category: "Earring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold Drop Earrings",
   },
   {
     id: 25,
     image: earring2,
-    title: "10 Tricks and Tips in Python",
+    title: "Guess",
     category: "Earring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Crystal Logo Stud Earrings",
   },
   {
     id: 26,
     image: earring3,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Tommy Hilfiger",
     category: "Earring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Polished stainless steel heart",
   },
   {
     id: 27,
     image: earring4,
-    title: "I think Fortnite is dead",
+    title: "Ted Baker",
     category: "Earring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Hanging hoop earring",
   },
   {
     id: 28,
     image: earring5,
-    title: "How to use Search Engine Optimisation",
+    title: "Ted Baker",
     category: "Earring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Silver bow tie earring",
   },
   {
     id: 29,
     image: earring6,
-    title: "10 Tricks and Tips in Python",
+    title: "Ted Baker",
     category: "Earring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Golden Heart stud earring",
   },
   {
     id: 30,
     image: earring7,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Emporio-Armani",
     category: "Earring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Heart earring with Crystals",
   },{
     id: 31,
     image: earring8,
-    title: "10 Tricks and Tips in Python",
+    title: "Emporio-Armani",
     category: "Earring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Hanging Crystal earring",
   },
   {
     id: 32,
     image: earring9,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Michael-Kors",
     category: "Earring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Small hoop stud earring",
   },
 
 
   {
     id: 33,
     image: ring1,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Fossil Ring",
     category: "Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold-Tone Stainless Steel Band Ring With Crystals",
   },
   {
     id: 34,
     image: ring2,
-    title: "I think Fortnite is dead",
+    title: "Thomas-Sabo Ring",
     category: "Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold-Tone Stainless Steel Band Ring With Crystals",
   },
   {
     id: 35,
     image: ring3,
-    title: "How to use Sch Engine Optimisation",
+    title: "Swarowski Ring",
     category: "Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Wide Gold Ring With Crystals All Around",
   },
   {
     id: 36,
     image: ring4,
-    title: "10 Tricks and Tips in Python",
+    title: "Swarowski Ring",
     category: "Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Stainless Steel Band Ring With Black Crystal",
   },
   {
     id: 37,
     image: ring5,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Swarowski Ring",
     category: "Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Silver-Tone Stainless Steel Band Ring With Big Crsytal",
   },{
     id: 38,
     image: ring6,
-    title: "10 Tricks and Tips in Python",
+    title: "Swarowski Ring",
     category: "Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold-Tone Stainless Steel Band Ring With Crystals",
   },
   {
     id: 39,
     image: ring7,
-    title: "How to transition from Unreal Engine to Unity in simple steps",
+    title: "Swarowski Ring",
     category: "Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque ea, ab aperiam necessitatibus adipisci sunt facilis itaque non enim est!",
+      "Gold-Tone Stainless Steel Band Ring",
   },
 ];
