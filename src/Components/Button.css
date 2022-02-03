@@ -1,6 +1,6 @@
 
 .buttons{
-    width: 70%;
+    width: 80%;
     margin: 3rem auto;
     text-align: center;
 }
@@ -8,6 +8,7 @@
 .btn{
     font-weight: 600;
     padding: .5rem 2rem;
+    margin: 1rem 0;
     background-color: #f5d3ae;
     border: none;
     border-radius: 3px;
@@ -29,4 +30,11 @@
 .btn:active, .btn:focus{
     outline: none;
     border: none;
+}
+
+@media (max-width:420px){
+    .buttons {
+        display: flex;
+        flex-wrap: wrap;
+    }
 }

@@ -133,3 +133,48 @@
   height: 200px;
   border: 3px solid #95785c;
 }
+
+@media (max-width: 1024px){
+  .About__left,
+  .About__middle,
+  .About__right {
+    width: 250px;
+  }
+  .About__main {
+    width: 100%;
+    justify-content: space-between;
+}
+  .About__img__decor{
+    width: 100%;
+  }
+  .About__title{
+    font-size: 30px;
+  }
+  .About__subtitle{
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .About__desc1, .About__desc2 {
+    line-height: 22px;
+}
+.About__staff__info {
+  width: 330px;
+  padding: 30px 30px;
+}
+}
+
+@media (max-width: 420px){
+  .About__container{
+    padding: 20px 20px;
+  }
+  .About__main {
+    align-items: center;
+    flex-direction: column;
+  }
+  .About__middle{
+    margin: 40px 20px;
+  }
+  .About__staff__container {
+    text-align: center;
+}
+}

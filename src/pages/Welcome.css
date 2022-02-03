@@ -87,3 +87,42 @@
   border-radius: 50%;
   border: 3px solid #95785c;
 }
+
+@media (max-width: 1024px) {
+  .Welcome__left,
+  .Welcome__middle,
+  .Welcome__right {
+    width: 250px;
+  }
+  .Welcome__title {
+    font-size: 30px;
+  }
+  .Welcome__subtitle {
+    font-size: 22px;
+  }
+  .Welcome__desc1,
+  .Welcome__desc2 {
+    font-size: 16px;
+  }
+  .img__welcome {
+    width: 250px;
+  }
+  .img__decor {
+    width: 100%;
+  }
+}
+
+@media (max-width: 420px) {
+  .Welcome {
+    flex-direction: column;
+    padding: 40px 0;
+  }
+  .Welcome__left,
+  .Welcome__middle,
+  .Welcome__right {
+    width: 300px;
+  }
+  .Welcome__middle{
+    margin: 100px 20px;
+  }
+}
